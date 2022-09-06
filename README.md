@@ -1,9 +1,7 @@
 ### Hi there, I'm Elias 👋 
 
 
-* 🌱 I’m currently looking an entry level as 
-         - Data Analytics job/internships
-         - Front-or Backened developer job/internships
+* 🌱 I’m currently looking an entry level as Data Analytics,Front-or Backened developer job/internships
 * 👯 I’m looking to collaborate on full-stack projects
 * 💬 Happy to answer any questions about HTML5/CSS3/Bootstrap4, Javascript, MySQL, NodeJS
 * 📫 For any request reach me out on [LinkedIn](https://www.linkedin.com/in/elias-weldemichael-135b1010b/)
