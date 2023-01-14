@@ -1,10 +1,10 @@
 ### Hi there, I'm Elias 👋 
 
 
-* 🌱 I’m currently looking an entry level as Data Analytics,Front-or Backened developer job/internships
-* 👯 I’m looking to collaborate on full-stack projects
-* 💬 Happy to answer any questions about HTML5/CSS3/Bootstrap4, Javascript, MySQL, NodeJS
+* 🌱 I’m currently working as Data Manager at Media Devoted 1 Aps
+* 👯 I’m looking to collaborate on Data Analytics
 * 💬 Happy to answer any questions Data analytics skills sets (Alteryx, Tabulea)
+* 💬 Happy to answer any questions about HTML5/CSS3/Bootstrap4, Javascript, MySQL, NodeJS
 * 📫 For any request reach me out on [LinkedIn](https://www.linkedin.com/in/eliasweldemichael/)
 * ⚡ interest watching football,reading and politics
 
